@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html >
+<head>
+<title>homework1</title>
+</head>
+<body>
+   <h1>我的個人首頁</h1>
+    <p>姓名：韓君洋</p>
+         <p>屏東人</p>
+<hr>
+<h2>學經歷</h2>
+<p>111年畢業國立金門大學華語文學系</p>
+<p>畢業屏東縣立大同高級中學高中部</p>
+<p>畢業屏東縣立大同高級中學國中部</p>
+<hr>
+<p><a href="https://www.facebook.com/profile.php?id=100003720617559">Visit my FB</a></p>
+
+</body> </body>
+</html>
