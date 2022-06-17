@@ -13,8 +13,8 @@
 *聯電
 IC設計業
 ## 關於HTML
-HTML 定義了網頁內容
- <html><head><title>：文檔大標題</head><body>：可以看到的頁面內容  <h1>：標題 <p>：段落  </body> </html> <br>是換行】
+###HTML 定義了網頁內容
+###<html><head><title>：文檔大標題</head><body>：可以看到的頁面內容  <h1>：標題 <p>：段落  </body> </html> <br>是換行】
 結尾需要有</>
 (老師建議：不要在單一的標記上設字形)
 ### lang是語言屬性
