@@ -1,11 +1,42 @@
-# 課程:網頁設計 -- 筆記、習題與報告
+# 期末筆記
+### **以下筆記是根據上課內容所作紀錄、以及運用w3school、菜鳥教程的範例練習與引用此兩個網站的內容來註記筆記。**
+## 這堂課學習到的那些相關網站、軟體應用
+1.GITHUB
+2.W3SCHOOL
+3.菜鳥教程
+4.Visual Studio Code介紹、下載
+5.Markdown
+## 科系與產業相關
+*台積電
+*ASML
+*美光
+*聯電
+IC設計業
+## 關於HTML
+HTML 定義了網頁內容
+ <html><head><title>：文檔大標題</head><body>：可以看到的頁面內容  <h1>：標題 <p>：段落  </body> </html> <br>是換行】
+結尾需要有</>
+(老師建議：不要在單一的標記上設字形)
+### lang是語言屬性
+    HTML 圖像語法
+HTML<img>標籤用於在網頁中嵌入圖像。
 
-欄位 | 內容
------|--------
-學期 | 110 學年度下學期
-學生 |  韓君洋
-學號末兩碼 | ３０
-教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
-學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
-課程內容 | https://gitlab.com/ccc110/wp
-教材網址 | [陳鍾誠的網頁設計課程](https://kinmen6.com/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/README.md)
+從技術上講，圖像不會插入網頁；圖像鏈接到網頁。該<img>標籤為引用的圖像創建了一個保存空間。
+
+標籤是空的<img>，它只包含屬性，沒有結束標籤。
+
+該<img>標籤有兩個必需的屬性：
+
+src - 指定圖像的路徑
+alt - 指定圖像的替代文本
+    圖片區域可做超連結的使用
+表格的標題欄用<th>，內容的標題欄用<td>。
+html是創建網頁的標記語言、css是可以格式化html的排版編程
+    src 屬性
+requiredsrc屬性指定圖像的路徑 (URL)。
+
+> > 注意：當網頁加載時，瀏覽器會從網頁服務器獲取圖像並將其插入到頁面中。因此，請確保圖像實際上與網頁相關的位置保持不變，否則您的訪問者將看到一個損壞的鏈接圖標。alt如果瀏覽器找不到圖像，則會顯示斷開的鏈接圖標和文本。(此段引註[link text](https:// "title")https://www.w3schools.com/html/html_images.asp)
+    
+    
+### 關於CSS
+    CSS會
