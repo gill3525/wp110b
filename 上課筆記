@@ -3,8 +3,29 @@
 W3SCHOOL
 Visual Studio Code介紹、下載
 HTML STYLES CSS樣式
-<html><head><title>：文檔大標題</head><body>：可以看到的頁面內容  <h1>：標題 <p>：段落  </body> </html> <br>是換行
+【<html><head><title>：文檔大標題</head><body>：可以看到的頁面內容  <h1>：標題 <p>：段落  </body> </html> <br>是換行】
 結尾需要有</>
 不要在單一的標記上設字形
 html的格式化、註解
-lang是語言屬性
+【lang是語言屬性
+HTML 圖像語法
+HTML<img>標籤用於在網頁中嵌入圖像。
+
+從技術上講，圖像不會插入網頁；圖像鏈接到網頁。該<img>標籤為引用的圖像創建了一個保存空間。
+
+標籤是空的<img>，它只包含屬性，沒有結束標籤。
+
+該<img>標籤有兩個必需的屬性：
+
+src - 指定圖像的路徑
+alt - 指定圖像的替代文本】
+圖片區域可做超連結的使用
+表格的標題欄用<th>，內容的標題欄用<td>。
+html是創建網頁的標記語言、css是可以格式化html的排版編程
+【CSS 实例
+CSS 规则由两个主要的部分构成：选择器，以及一条或多条声明:
+p
+{
+	color:red;
+	text-align:center;
+} 】
